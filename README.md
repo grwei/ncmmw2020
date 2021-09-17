@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# 基于S参数的耦合传输线RLGC参数提取算法
 
-You can use the [editor on GitHub](https://github.com/grwei/ncmmw2020/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+2020年全国微波毫米波会议论文
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**作者**：危国锐(weiguorui@sjtu.edu.cn),*夏彬(xiabin760806@sjtu.edu.cn)
 
-### Markdown
+**知网链接**：[知网链接](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2021&filename=ZDWB202009002117&uniplatform=NZKPT&v=aK8Ty44vwg%25mmd2BRbEvjLJhz4pIqg0%25mmd2Fs7%25mmd2FLKPnIHuDkMYInbxnUkv%25mmd2Fcxp0eqemk%25mmd2Bc%25mmd2FO0zMQnbcF2SI4%3d)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**引用格式**：危国锐,夏彬. 基于S参数的耦合传输线RLGC参数提取算法[A]. 中国电子学会.2020年全国微波毫米波会议论文集（下册）[C].中国电子学会:中国电子学会微波分会,2020:3.
 
-```markdown
-Syntax highlighted code block
+**海报PDF**：[海报](204+危国锐+海报张贴.pdf)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/grwei/ncmmw2020/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**海报宣讲**：[宣讲视频](doc/poster_4k.mp4)
